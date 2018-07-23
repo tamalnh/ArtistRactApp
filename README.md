@@ -1,5 +1,7 @@
 # ArtistRactApp
 
 > npm install\
+<!>
 > npm install -g json-server \
-> json-server db.json\
+<!>
+> json-server db.json
